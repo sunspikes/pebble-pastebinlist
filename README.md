@@ -2,7 +2,7 @@
 
 Pebble app to show lists from Pastebin.com, simply create a list in Pastebin.com and view it on your Pebble.
 
-_Please note: This is work in progress app, currently there is configure option available, you have to hard code the note id in the app._
+_Please note: This is work in progress app, currently there is no configure option available, you have to hard code the note id in the app before building._
 
 ####How to use?
 
